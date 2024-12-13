@@ -1,0 +1,7 @@
+langchain
+streamlit
+google-generativeai
+PyPDF2   # Read  pdf
+faiss-cpu  # vector db
+langchain_google_genai
+python-dotenv
